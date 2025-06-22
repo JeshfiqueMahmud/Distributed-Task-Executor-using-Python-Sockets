@@ -1,5 +1,5 @@
 python worker_node.py --port 8001 --type a
 python worker_node.py --port 8002 --type b
 python worker_node.py --port 8003 --type c
-python coordinator.py --input input.txt
+python coordinator.py 
 
